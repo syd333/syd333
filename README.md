@@ -64,7 +64,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="sydney's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="sydney's GitHub Stats" src="https://github-readme-stats.syd333.vercel.app/api?username=syd333&show_icons=true&hide_border=true" />
 
 </details>
 
