@@ -1,6 +1,6 @@
 ### Hi y'all, I'm Sydney !
 
-## I'm a Friend, Auntie, Developer, and Student!!
+## I'm a Friend, Auntie, Developer, and Student!
 
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: transition into a career in software engineering!
@@ -44,25 +44,11 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sydney's GitHub Stats" src="https://github-readme-stats.syd333.vercel.app/api?username=syd333&show_icons=true&hide_border=true" />
 
 </details>
 
-<!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/soldmysoul2cod3
 [linkedin]: https://www.linkedin.com/in/sydney-miranda-298149185/
