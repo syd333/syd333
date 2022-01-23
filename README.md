@@ -1,10 +1,4 @@
-### Hi y'all, I'm Sydney !
-
-## I'm a Friend, Auntie, Developer, and Student!
-
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: transition into a career in software engineering!
-- ⚡ Fun fact: I use to own a fabric store.
+### syd :::
 
 ### Connect with me:
 
@@ -49,5 +43,4 @@
 
 </details>
 
-[twitter]: https://twitter.com/soldmysoul2cod3
-[linkedin]: https://www.linkedin.com/in/sydney-miranda-298149185/
+[linkedin]: https://www.linkedin.com/in/sydney-miranda333/
